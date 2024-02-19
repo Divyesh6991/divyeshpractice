@@ -1,2 +1,3 @@
 # divyeshpractice
-This is my first git directory
+This is my first git directory.
+Author : Divyesh Dudhat
