@@ -1,4 +1,5 @@
 # divyeshpractice
 This is my first git directory.
 <br><br>
-Author : Divyesh Dudhat
+Author : Divyesh (Dudhat)
+ 
